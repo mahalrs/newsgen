@@ -14,7 +14,7 @@
   "private": true,
   "dependencies": {
     "commander": "^10.0.0",
-    "puppeteer": "^19.8.5"
+    "puppeteer": "^24.4.0"
   },
   "devDependencies": {
     "typescript": "^5.0.4"
